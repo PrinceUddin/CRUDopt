@@ -23,7 +23,7 @@ require_once ("../CRUDopt/php/operation.php");
 
 <main class="bg-info">
     <div class="container text-center">
-        <h1 class="py-4 bg-success text-light rounded"><i class="fa-solid fa-book-open-cover"></i> Prince E-Book Store</h1>
+        <h1 class="py-4 bg-success text-light rounded"><i class="fa-solid fa-book-open-cover"></i> E-Book Store</h1>
 
         <div class="d-flex justify-content-center">
             <form action="" method="post" class="w-50">
@@ -38,7 +38,7 @@ require_once ("../CRUDopt/php/operation.php");
                         <?php inputElement("<i class='fas fa-people-carry'></i>","Publisher", "book_publisher",""); ?>
                     </div>
                     <div class="col">
-                        <?php inputElement("<i class='fas fa-pound-sign'></i>","Price", "book_price",""); ?>
+                        <?php inputElement("<i class='fas fa-dollar-sign'></i>","Price", "book_price",""); ?>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center">

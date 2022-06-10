@@ -4,7 +4,6 @@ To Execute this application just start the Xampp web server.
 Execute index.php file in the browser at locahost.
 
 
-
 To Execute this application just start the Xampp web server.
 Execute index.php file in the browser at locahost.
 
@@ -29,7 +28,3 @@ to edit or update detils of a book:
 to delete a book from Library
 1) insert ID number
 2) press DELETE button
-
-
-video presentation https://www.loom.com/share/9c1291354994456dbb34d69248b0ec45
-
